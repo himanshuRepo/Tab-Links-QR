@@ -1,6 +1,5 @@
 '''
 Tab Link QR Generator
-Purpose: to open all the tabs opened in broswer on another browser using QR scanner
 
 File: Generate the QR code as image using first 10 links
 '''
