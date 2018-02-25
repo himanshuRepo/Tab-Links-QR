@@ -1,6 +1,5 @@
 '''
 Tab Link QR Generator
-Purpose: to open all the tabs opened in broswer on another browser using QR scanner
 
 File: Storing current links in file 'data.txt'
 '''
